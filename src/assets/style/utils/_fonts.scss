@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'helvetica_ceregular';
+    src: url('../fonts/hv-webfont.woff2') format('woff2'),
+        url('../fonts/hv-webfont.woff') format('woff'),
+        url('../fonts/hv-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'helvetica_cebold';
+    src: url('../fonts/hvb-webfont.woff2') format('woff2'),
+        url('../fonts/hvb-webfont.woff') format('woff'),
+        url('../fonts/hvb-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'socialico';
+    src: url('../fonts/socialico-webfont.woff2') format('woff2'),
+        url('../fonts/socialico-webfont.woff') format('woff'),
+        url('../fonts/socialico-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
